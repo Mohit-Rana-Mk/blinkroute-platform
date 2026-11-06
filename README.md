@@ -4,6 +4,8 @@
 
 The platform implements and showcases **all 15 Academic Data Science & Machine Learning Laboratory Experiments** inside a full-stack decoupled architecture.
 
+Live: https://mohit-rana-mk.github.io/blinkroute-platform/
+
 ## Enterprise Design Language & Architecture (Anti-AI Laws)
 - **Zero Emojis**: Strictly 14px / 16px Lucide-React SVG icons (`strokeWidth={1.5}`).
 - **Zero AI Clichés**: No gradient mesh blobs, no bubbly glassmorphism, no rounded buttons.
